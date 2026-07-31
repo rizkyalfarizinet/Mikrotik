@@ -5,7 +5,16 @@
 
 <h4>Lakukan logging in ke mikrotik dengan beberapa  cara : </h4>
 Tuliskan langkah-langkah nya :
+  1.   Winbox
+        Cara Pertama yang paling mudah menurut saya adalah menggunakan aplikasi winbox yang dapat didownload di mikrotik.com, berikut langkah nya
+        <img width="600" height="400" alt="winbox" src="https://github.com/user-attachments/assets/4c5635be-c132-49f1-b702-833c9d42fdd5" />
 
+    a.Buka <strong>Winbox</strong>
+    b.Klik Tab <strong>Neighbors</strong> >> Refresh
+    c.Setelah muncul , pilih MAC Address >>  <strong>MAC Address:</strong> 64:D1:54:0F:07:3F
+    d.<strong>Login:</strong admin
+      <strong>Password:</strong>
+    e.Klik <strong>Connect</strong>
 
 
 
