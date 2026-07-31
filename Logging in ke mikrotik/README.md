@@ -9,17 +9,17 @@ Tuliskan langkah-langkah nya :
         Cara Pertama yang paling mudah menurut saya adalah menggunakan aplikasi winbox yang dapat didownload di mikrotik.com, berikut langkah nya
         <img width="600" height="400" alt="winbox" src="https://github.com/user-attachments/assets/4c5635be-c132-49f1-b702-833c9d42fdd5" />
 
-a. Buka aplikasi <b>Winbox</b> pada laptop atau komputer yang telah terhubung ke perangkat MikroTik menggunakan kabel LAN.
+a. Buka aplikasi <b>Winbox</b> pada komputer yang terhubung ke MikroTik
 
-b. Pilih menu <b>Neighbors</b> untuk mendeteksi perangkat MikroTik yang terhubung dalam satu jaringan.
+b. Pilih menu <b>Neighbors</b> hingga perangkat MikroTik muncul
 
-c. Klik dua kali atau pilih <b>MAC Address</b> dari perangkat MikroTik yang muncul pada daftar <b>Neighbors</b>. Kolom <b>Connect To</b> akan terisi secara otomatis.
+c. Klik <b>MAC Address</b> MikroTik agar kolom <b>Connect To</b> terisi otomatis
 
-d. Masukkan <b>Login</b> (default: <b>admin</b>). Jika router belum memiliki kata sandi, biarkan kolom <b>Password</b> kosong.
+d. Masukkan <b>Login</b> <b>admin</b> dan biarkan <b>Password</b> kosong (jika belum ada)
 
-e. Klik tombol <b>Connect</b> untuk masuk ke perangkat MikroTik melalui <b>MAC Address</b>.
+e. Klik tombol <b>Connect</b> untuk masuk ke MikroTik.
 
-f. Apabila proses login berhasil, akan muncul jendela utama <b>Winbox</b> yang berisi menu konfigurasi seperti <b>Interfaces</b>, <b>IP</b>, <b>Bridge</b>, <b>System</b>, dan menu lainnya. Hal ini menandakan bahwa perangkat MikroTik telah berhasil diakses dan siap dikonfigurasi.
+f. Jika berhasil, akan tampil halaman utama <b>Winbox</b> dan MikroTik siap dikonfigurasi
 
 
 
